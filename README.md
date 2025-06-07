@@ -61,7 +61,7 @@ This is a clean, responsive, and modern website designed to showcase my skills, 
 
 👨‍💻 **RaghuRam**  
 Passionate about building clean, responsive web experiences with HTML, CSS, and JavaScript.  
-[GitHub](https://github.com/raghuram-007) | [LinkedIn](https://www.linkedin.com/in/raghuram-007) | [Twitter](https://twitter.com/your-twitter)  
+[GitHub](https://github.com/raghuram-007) 
 
 ---
 
